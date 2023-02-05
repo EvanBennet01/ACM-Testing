@@ -1,6 +1,6 @@
 # ACM-Testing
 
-This repository is made up of 3 files
+This repository is made up of 3 files based in C
 
 - A classic rabbit and fox game
 - A file that will induce an artificial delay for inputs of the program in order to test the ACM
